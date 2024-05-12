@@ -1,0 +1,36 @@
+body{
+   
+    
+ 
+}
+
+.services{
+    flex-direction: column;
+}
+
+.navbar{
+    flex-direction: column;
+    height: 100px;
+}
+
+.navbar ul li a{
+    font-size: 0.8rem;
+}
+
+.h-primary{
+    color: white;
+    font-size: 1.3rem;
+    margin-bottom: 40px;
+}
+.home{
+    height: 362px;
+}
+.home p{
+   padding: 0px 50px;
+}
+
+.home p + p{
+    margin-bottom: 20px;
+}
+
+
